@@ -1,5 +1,14 @@
 # Graphset de l'application Pepper de présentation de l'école IMERIR
 
+## Table des matières
+
+1. [Présentation générale de l’IMERIR](#presentation_generale),
+2. [Les formations de l’école](#formations_de_l_ecole),
+3. [L’apprentissage](#l_apprentissage),
+4. [L’admission](#l_admission),
+5. [Erasmus +](#erasmus_plus),
+6. [Fablab et makerspace](#fablab_et-marketspace)
+
 <a name="presentation_generale"></a>
 ## Présentation générale de l’IMERIR
 
