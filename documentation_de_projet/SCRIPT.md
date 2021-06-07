@@ -1,4 +1,4 @@
-# Graphset de l'application Pepper de présentation de l'école IMERIR
+# Script de l'application Pepper de présentation de l'école IMERIR
 
 ## Table des matières
 
