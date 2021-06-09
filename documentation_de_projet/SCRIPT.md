@@ -7,7 +7,7 @@
 3. [L’apprentissage](#l_apprentissage),
 4. [L’admission](#l_admission),
 5. [Erasmus +](#erasmus_plus),
-6. [Fablab et makerspace](#fablab_et-marketspace)
+6. [Le Fablab](#le_fablab)
 
 <a name="presentation_generale"></a>
 ## Présentation générale de l’IMERIR
@@ -27,14 +27,14 @@ Outre les domaines qui y sont enseignés, l’IMERIR a pour objectif la professi
 <a name="l_admission"></a>
 ## L’admission
 
-Pour l’admission, c’est très simple. Il faut tout d’abord remplir le dossier d’inscription. Vous pouvez le trouver sur internet ou alors en demander à mes collègues humains s’il leur en reste. Ensuite, vous devez vous rendre à une des sessions d’admission organisées par l’école une fois par mois. Le principe est très simple: vous venez à l’école pour passer des tests mesurant votre niveau en mathématiques, en français, en anglais et en logique. Votre motivation est également évaluée par un entretien avec une personne de l’école. À l'issue de cette séance, l’école reviendra vers vous en cours de journée pour communiquer sa décision. Simple ! Non ? Et ce n’est pas fini. Une fois recruté, vous participez à des journées ARE qui veulent dire aide à la recherche d’entreprise. Vous serrez alors coaché par un professionnel pour faire CV et une lettre de motivation en béton. Vous apprendrez également comment vous comporter et réagir face à un recruteur. Voilà ! Vous savez tout.
+Pour l’admission, c’est très simple. Il faut tout d’abord remplir le dossier d’inscription. Vous pouvez le trouver sur sur le site officiel de l'IMERIR ou alors en demander à mes collègues humains s’il leur en reste. Ensuite, vous devez vous rendre à une des sessions d’admission organisées par l’école. Le principe est très simple: vous venez dans les locaux de l’IMERIR pour passer des tests mesurant votre niveau en mathématiques, en français, en anglais et en logique. Votre motivation est ensuite évaluée par un entretien individuel avec un des responsables pédagogiques de l’école. À l'issue de cette séance, l’école reviendra vers vous en cours de journée pour communiquer sa décision. Simple ! Non ? Et ce n’est pas fini. Une fois recruté, vous participez à des journées ARE (pour 'Aide à la recherche d'entreprise'). Vous serrez alors coaché par un ou plusieurs professionnels pour faire un CV et une lettre de motivation en béton. Vous apprendrez également comment vous comporter et réagir face à un recruteur pour mettre toutes les chances de votre côté. Voilà ! Vous savez tout.
 
 <a name="erasmus_plus"></a>
 ## Erasmus +
 
 Les imériens étudiants dans la formation Manager de systèmes informatiques et robotiques peuvent partir à l’étranger dans le cadre du programme Erasmus. Plongés dans cette expérience unique et inoubliable, les étudiants continuent à étudier, mais dans une université ou école d’accueil, tout en perfectionnant leur anglais, tout en découvrant de nouveaux pays et de nouvelles cultures et tout en nouant de nouvelles relations. Quelle chance ! L’IMERIR est partenaire de plusieurs écoles et universités dans l’Europe entière, avec lequel de riches échanges se font. On peut citer par exemple l’université d’Obudai à Budapest en Hongie, mais encore l’université Babeș-Bolyai à Cluj-Napoca en Roumanie, de l’université des sciences appliquées de Laponie en Finlande, ou encore de l’université d’Innopolis….en Russie. C’est une formidable expérience à ne pas manquer.
 
-<a name="fablab_et-marketspace"></a>
-## Fablab et makerspace
+<a name="le_fablab"></a>
+## Le Fablab
 
 L’IMERIR dispose d’un makerspace, un espace numérique qui permet d'accéder à des machines habituellement réservées à des professionnels mais ici à des fins d'innovation, de prototypage ou de production à petite échelle. Cet espace dispose d’une découpeuse laser, d’une fraiseuse numérique, d’imprimantes 3D, de matériel électronique pour s’exercer en cybersécurité et de robots humanoïdes comme moi Pepper et de robots industriels comme mon ami le Cobot Universal Robot. L’école est aussi partenaire avec le Fablab Orles Valley, le fablab de Perpignan situé en face. Il s’agit d’un atelier d’innovation, de fabrication et de prototypage qui met à la disposition de ses utilisateurs des machines ainsi que le savoir-faire nécessaire pour les utiliser. Contrairement au makerspace, le fablab vous permettra de mettre sur pied des projets plus ambitieux et innovants. J’ai tout dis.
