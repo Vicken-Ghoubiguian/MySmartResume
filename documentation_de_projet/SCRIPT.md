@@ -22,7 +22,7 @@ Aujourd’hui, L’IMERIR dispense 3 formations dans les domaines de l’informa
 <a name="l_apprentissage"></a>
 ## L’apprentissage
 
-L’IMERIR ayant pour objectif la professionnalisation des étudiants dans les domaines de l’informatique, de la fabrication numérique et de la robotique, toutes les formations de l’école se font en apprentissage. L’apprentissage est un dispositif de formation en alternance combinant l’acquisition de nouveaux savoirs et de nouvelles compétences à l’école et une mise en pratique directe dans l’entreprise en qualité de salarié. Les autres avantages de l’apprentissage, c'est que les frais de scolarité sont gratuits et que vous touchez un salaire chaque mois.
+Outre les domaines qui y sont enseignés, l’IMERIR a pour objectif la professionnalisation de ses étudiants vers des postes d'ingénieurs, de chefs de projet et de managers. C'est pour cette raison que toutes les formations dispensées par l'IMERIR se font en apprentissage. L’apprentissage est un dispositif de formation en alternance combinant l’acquisition de nouveaux savoirs et de nouvelles compétences au sein de l’école à une mise en pratique directe dans l’entreprise en qualité de salarié. L'apprentissage, ce n'est que des avantages ! Pour l'étudiant les frais de scolarité sont gratuits et vous êtes salarié de l'entreprise, ce qui fait que vous touchez votre salaire et bénéficiez des avantages accordés par l'entreprise. Pour l'entreprise cette dernière transmet son savoir-faire à un collaborateur intégré progressivement dans sa charge et avec des couts de recrutement maitrisés. Du gagnant-gagnant en somme !
 
 <a name="l_admission"></a>
 ## L’admission
