@@ -6,3 +6,9 @@ Ce projet consiste à développer une application pour le robot Pepper, fabriqu�
 
 1. [Introduction](#introduction)
 2. [Conclusion](#conclusion)
+
+<a name="introduction"></a>
+## Introduction
+
+<a name="conclusion"></a>
+## Conclusion
