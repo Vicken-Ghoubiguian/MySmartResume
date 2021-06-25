@@ -7,7 +7,8 @@
 3. [L’apprentissage](#l_apprentissage),
 4. [L’admission](#l_admission),
 5. [Erasmus +](#erasmus_plus),
-6. [Le Fablab](#le_fablab)
+6. [Le Fablab](#le_fablab),
+7. [Message de remerciements, d'information et d'au revoir](#message_de_remerciements_d_information_et_d_au_revoir)
 
 <a name="presentation_generale"></a>
 ## Présentation générale de l’IMERIR
@@ -38,3 +39,8 @@ Les imériens étudiants dans la formation "Manager de systèmes informatique et
 ## Le Fablab
 
 L’IMERIR dispose d’un fablab, un espace numérique à des fins d’innovation, de prototypage ainsi que de production à petite échelle et qui permet d'accéder à des imprimantes 3D, des machines-outils habituellement réservées à des professionnels, du matériel électronique, du matériel pour la réalité virtuelle, des robots humanoïdes (comme moi, Pepper), des cobots et des robots industriels. Dans cet espace, les ressources matérielles, logicielles et humaines sont mutualisées pour prototyper, expérimenter, vous accompagner dans votre projet professionnel et travailler sur les projets école. Plus votre projet est ambitieux et innovant, plus il est intéressant et plus le Fablab se chargera de vous accompagner. J’ai tout dit.
+
+<a name="message_de_remerciements_d_information_et_d_au_revoir"></a>
+## Message de remerciements, d'information et d'au revoir
+
+Merci de m'avoir laissé te présenter l'IMERIR. J'espère que ça a attisé ta curiosité dans les domaines de l'informatique et de la robotique. Si tu es intéressé, tu peux demander à mes collègues humains des précisions supplémentaires, les plaquettes de présentation détaillée de chacune des formations dispensées par l'école, voire aussi un dossier d'inscription pour devenir étudiant de notre école et toutes informations supplémentaires. Tu peux aussi à tout moment demander les renseignements et les informations que tu veux, soit en te rendant sur le site officiel de l'IMERIR (https://www.imerir.com/) soit en téléphonant au 04 68 56 80 18. Je répète, le 04 68 56 80 18. Au revoir, j'espère te revoir très vite. 
