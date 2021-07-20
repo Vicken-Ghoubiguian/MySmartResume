@@ -5,10 +5,14 @@ Ce projet consiste à développer une application pour le robot Pepper, fabriqu�
 ## Table des matières
 
 1. [Introduction](#introduction)
-2. [Conclusion](#conclusion)
+2. [Liens utiles](#liens_utiles)
+3. [Conclusion](#conclusion)
 
 <a name="introduction"></a>
 ## Introduction
+
+<a name="liens_utiles"></a>
+## Liens utiles
 
 <a name="conclusion"></a>
 ## Conclusion
