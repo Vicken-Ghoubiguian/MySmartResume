@@ -7,7 +7,7 @@ Ce projet consiste à développer une application pour le robot Pepper, fabriqu�
 1. [Introduction](#introduction)
 2. [Définition du projet](#definition_du_projet)
 3. [Fonctionnalités du projet](#fonctionnalites_du_projet)
-4. f
+4. [Développement du projet](#developpement_du_projet)
 5. [Composition du projet](#composition_du_projet)
 6. [Pré-requis techniques](#prerequis_techniques)
 7. [Comment le faire fonctionner sur le robot Pepper ?](#comment_le_faire_fonctionner_sur_le_robot_Pepper)
@@ -19,6 +19,9 @@ Ce projet consiste à développer une application pour le robot Pepper, fabriqu�
 
 <a name="definition_du_projet"></a>
 ## Définition du projet
+
+<a name="developpement_du_projet"></a>
+## Développement du projet
 
 <a name="fonctionnalites_du_projet"></a>
 ## Fonctionnalités du projet
