@@ -2,7 +2,7 @@
 
 ## Table des matières
 
-1. [Présentation générale de l’IMERIR](#presentation_generale),
+1. [Qui sommes nous ?](#qui_sommes_nous),
 2. [Les formations de l’école](#formations_de_l_ecole),
 3. [L’apprentissage](#l_apprentissage),
 4. [L’admission](#l_admission),
@@ -10,8 +10,8 @@
 6. [Le Fablab](#le_fablab),
 7. [Message de remerciements, d'information et d'au revoir](#message_de_remerciements_d_information_et_d_au_revoir)
 
-<a name="presentation_generale"></a>
-## Présentation générale de l’IMERIR
+<a name="qui_sommes_nous"></a>
+## Qui sommes nous ?
 
 L’IMERIR, est une école supérieure de la CCI (pour 'Chambre de commerce et d'industrie') des Pyrénées-Orientales, fondée en 1981 et basée à Perpignan, plus exactement sur le campus perpignanais du CFA Sud Formation devenue récemment 'Purple campus'. L’IMERIR prépare aux métiers de la robotique et de l’informatique. On y enseigne la robotique industrielle, la cobotique, la robotique de service, la robotique humanoïde (avec des robots comme moi, Pepper), l'informatique industrielle, l'informatique de service, l'électronique, la mécanique et la conception assistée par ordinateur (CAO). Le management et la gestion de projets y sont également enseignés. Notre école dispose aussi d'un fablab où sont disponibles toutes les imprimantes 3D, la découpeuse laser, les robots industriels (mes amis robots de chez Kuka, Fanuc et Staubli), les fers à souder, le matériel électronique et tous ce qui est nécessaire dans le développement de projets maker et qui seront utiles tant pour réaliser des projets d'école que pour réaliser les projets personnels voire vous aider à réaliser votre projet professionnel. L’IMERIR cultive aussi les partenariats comme avec le groupe école Pratique à Marseille, le centre de formation de la CCI Marseille -Provence.
 
