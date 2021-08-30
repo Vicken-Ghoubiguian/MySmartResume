@@ -3,7 +3,7 @@
 ## Table des matières
 
 1. [Qui sommes nous ?](#qui_sommes_nous),
-2. [Les formations de l’école](#formations_de_l_ecole),
+2. [Nos formations](#nos_formations),
 3. [L’apprentissage](#l_apprentissage),
 4. [L’admission](#l_admission),
 5. [Erasmus](#erasmus),
@@ -15,8 +15,8 @@
 
 L’IMERIR, est une école supérieure de la CCI (pour 'Chambre de commerce et d'industrie') des Pyrénées-Orientales, fondée en 1981 et basée à Perpignan, plus exactement sur le campus perpignanais du CFA Sud Formation devenue récemment 'Purple campus'. L’IMERIR prépare aux métiers de la robotique et de l’informatique. On y enseigne la robotique industrielle, la cobotique, la robotique de service, la robotique humanoïde (avec des robots comme moi, Pepper), l'informatique industrielle, l'informatique de service, l'électronique, la mécanique et la conception assistée par ordinateur (CAO). Le management et la gestion de projets y sont également enseignés. Notre école dispose aussi d'un fablab où sont disponibles toutes les imprimantes 3D, la découpeuse laser, les robots industriels (mes amis robots de chez Kuka, Fanuc et Staubli), les fers à souder, le matériel électronique et tous ce qui est nécessaire dans le développement de projets maker et qui seront utiles tant pour réaliser des projets d'école que pour réaliser les projets personnels voire vous aider à réaliser votre projet professionnel. L’IMERIR cultive aussi les partenariats comme avec le groupe école Pratique à Marseille, le centre de formation de la CCI Marseille -Provence.
 
-<a name="formations_de_l_ecole"></a>
-## Les formations de l’école
+<a name="nos_formations"></a>
+## Nos formations
 
 Aujourd’hui, L’IMERIR dispense 3 formations dans les domaines de l’informatique et de la robotique. Sa principale est "Manager de systèmes informatique et robotique" (en abrégé MSIR). C'est une formation Bac +5 qui se déroule en 3 ans après un BTS, un DUT ou une prépa scientifique et technique, qui est polyvalente car conjuguant l'acquisition des compétences en informatique, en robotique et en management pour permettre aux étudiants de diriger n’importe quel projet informatique et robotique dès l’obtention de leur diplôme. Pour tous ceux qui ne disposent pas du bagage requis: pas de panique ! L'IMERIR dispose d'une formation Bac +2 intitulée "Analyste développeur d'applications informatiques" qui se déroule en 2 ans après un baccalauréat général, technologique ou professionnel et qui permet aux étudiants l'acquisition des bases en informatique, en conception assistée par ordinateur (CAO), en mécanique et en électronique, tout en se professionnalisant. Ces 2 formations sont certifiantes par un diplôme inscrit au Répertoire National de la Certification Professionnelle (RNCP), et sont donc reconnues par l’Etat. L'IMERIR dispose également d'une troisième formation, la "Licence informatique spécialité robotique de prototypage", formation Bac +3 qui se déroule après l'obtention d'un diplôme ou d'un titre professionnel de niveau Bac +2. Cette formation couvre les principaux domaines de l'informatique (comme le développement, les réseaux ou encore l'architecture des machines) mais avec une spécialisation dans les domaines de la robotique. Point intéressant ! Il vous est possible de valider les formations "Manager de systèmes informatique et robotique" et "Licence informatique spécialité robotique de prototypage" en validation des acquis de l'experience (en abrégé VAE). Et ça, c'est cool comme Ra's al Ghul !
 
