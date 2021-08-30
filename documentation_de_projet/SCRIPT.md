@@ -6,7 +6,7 @@
 2. [Les formations de l’école](#formations_de_l_ecole),
 3. [L’apprentissage](#l_apprentissage),
 4. [L’admission](#l_admission),
-5. [Erasmus +](#erasmus_plus),
+5. [Erasmus](#erasmus),
 6. [Le Fablab](#le_fablab),
 7. [Message de remerciements, d'information et d'au revoir](#message_de_remerciements_d_information_et_d_au_revoir)
 
@@ -30,8 +30,8 @@ Outre les domaines qui y sont enseignés, l’IMERIR a pour objectif la professi
 
 Pour l’admission, c’est très simple. Il faut tout d’abord remplir le dossier d’inscription. Vous pouvez le trouver sur sur le site officiel de l'IMERIR ou alors en demander à mes collègues humains s’il leur en reste. Ensuite, vous devez vous rendre à une des sessions d’admission organisées par l’école. Le principe est très simple: vous venez dans les locaux de l’IMERIR pour passer des tests mesurant votre niveau en mathématiques, en français, en anglais et en logique. Votre motivation est ensuite évaluée par un entretien individuel avec un des responsables pédagogiques de l’école. À l'issue de cette séance, l’école reviendra vers vous en cours de journée pour communiquer sa décision. Simple ! Non ? Et ce n’est pas fini. Une fois recruté, vous participez à des journées ARE (pour 'Aide à la recherche d'entreprise'). Vous serrez alors coaché par un ou plusieurs professionnels pour faire un CV et une lettre de motivation en béton. Vous apprendrez également comment vous comporter et réagir face à un recruteur pour mettre toutes les chances de votre côté. Voilà ! Vous savez tout.
 
-<a name="erasmus_plus"></a>
-## Erasmus +
+<a name="erasmus"></a>
+## Erasmus
 
 Les imériens étudiants dans la formation "Manager de systèmes informatique et robotique" peuvent partir à l’étranger dans le cadre du programme Erasmus. Plongés dans cette expérience unique et inoubliable, ils continuent d'étudier mais dans une université ou école d’accueil tout en perfectionnant leur anglais, en découvrant de nouveaux pays ainsi que de nouvelles cultures et tout en nouant de nouvelles relations. Quelle chance ! Non ? L’IMERIR est partenaire de plusieurs écoles et universités dans toute l’Europe et avec lequel de riches échanges se font. Il y a par exemple l’université des sciences appliquées de Laponie (en abrégé LAPIN AMK) en Finlande, l'université des sciences appliquée HAMK toujours en Finlande, l'Algebra University College en Croatie ou encore de l’université d’Innopolis en Russie. Quelle aventure ! L'Erasmus a aussi son pendant pour les jeunes entrepreneurs, simplement intitulé "Erasmus pour Jeunes Entrepreneurs" et qui leur permet d'acquérir toutes les compétences requises pour créer et/ou gérer une entreprise en Europe. Les imériens jeunes entrepreneurs pourront alors acquérir et échanger des connaissances et des idées entrepreneuriales avec un entrepreneur expérimenté en Europe et auprès duquel ils séjourneront pendant une période allant de 1 à 6 mois. Quelle formidable occasion ! Non ?
 
